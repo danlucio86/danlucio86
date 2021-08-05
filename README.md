@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @danlucio86
+- 👋 Hi, I’m Lucio!
 - 👀 I’m interested in R programming and metabolomics data analysis
 - 🌱 I’m currently learning R programming and machine learning
 - 💞️ I’m looking to collaborate on developing R packages for biological data analysis
